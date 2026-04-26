@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:chest": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:leaf_litter": 4,
+      "minecraft:oak_sapling": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 6128,
+      "minecraft:walk_one_cm": 5682,
+      "minecraft:leave_game": 4,
+      "minecraft:play_time": 6128,
+      "minecraft:jump": 33,
+      "minecraft:time_since_death": 6128,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 5921,
+      "minecraft:open_chest": 1,
+      "minecraft:fall_one_cm": 1000,
+      "minecraft:total_world_time": 6128,
+      "minecraft:fly_one_cm": 5086,
+      "minecraft:sneak_time": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:egg": 1,
+      "minecraft:leaf_litter": 4,
+      "minecraft:oak_log": 29,
+      "minecraft:oak_sapling": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:oak_planks": 116,
+      "minecraft:chest": 1,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 2,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 29
+    }
+  },
+  "DataVersion": 4671
+}
