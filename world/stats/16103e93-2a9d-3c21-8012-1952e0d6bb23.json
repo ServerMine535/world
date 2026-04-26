@@ -24,14 +24,14 @@
       "minecraft:zombie_villager": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 8374,
-      "minecraft:leave_game": 13,
+      "minecraft:time_since_rest": 11031,
+      "minecraft:leave_game": 14,
       "minecraft:damage_taken": 1139,
       "minecraft:mob_kills": 22,
-      "minecraft:time_since_death": 8155,
+      "minecraft:time_since_death": 10812,
       "minecraft:interact_with_furnace": 20,
       "minecraft:sleep_in_bed": 2,
-      "minecraft:total_world_time": 133181,
+      "minecraft:total_world_time": 135838,
       "minecraft:swim_one_cm": 2970,
       "minecraft:crouch_one_cm": 1695,
       "minecraft:deaths": 2,
@@ -39,7 +39,7 @@
       "minecraft:interact_with_crafting_table": 11,
       "minecraft:walk_one_cm": 188172,
       "minecraft:walk_under_water_one_cm": 89,
-      "minecraft:play_time": 133181,
+      "minecraft:play_time": 135838,
       "minecraft:damage_dealt": 3018,
       "minecraft:jump": 731,
       "minecraft:drop": 1,
@@ -49,7 +49,7 @@
       "minecraft:fall_one_cm": 15689,
       "minecraft:fly_one_cm": 74254,
       "minecraft:walk_on_water_one_cm": 4855,
-      "minecraft:sneak_time": 820
+      "minecraft:sneak_time": 835
     },
     "minecraft:dropped": {
       "minecraft:cooked_porkchop": 2
