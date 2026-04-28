@@ -3,11 +3,11 @@ world/session.lock
 world_nether/session.lock
 world_the_end/session.lock
 onoff/
+server.properties
 # excessoes
 !world/
 !world_nether/
 !world_the_end/
 !.gitignore
-!server.properties
 !spigot.yml
 !paper-global.yml
