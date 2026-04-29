@@ -135,24 +135,24 @@
       "minecraft:stone": 277
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 79471,
-      "minecraft:leave_game": 27,
+      "minecraft:time_since_rest": 80589,
+      "minecraft:leave_game": 28,
       "minecraft:damage_taken": 1139,
       "minecraft:mob_kills": 22,
-      "minecraft:time_since_death": 79252,
+      "minecraft:time_since_death": 80370,
       "minecraft:interact_with_furnace": 20,
       "minecraft:sleep_in_bed": 2,
-      "minecraft:total_world_time": 204278,
+      "minecraft:total_world_time": 205396,
       "minecraft:swim_one_cm": 2970,
-      "minecraft:crouch_one_cm": 1822,
+      "minecraft:crouch_one_cm": 1890,
       "minecraft:deaths": 2,
       "minecraft:climb_one_cm": 1070,
       "minecraft:interact_with_crafting_table": 11,
-      "minecraft:walk_one_cm": 206455,
+      "minecraft:walk_one_cm": 211852,
       "minecraft:walk_under_water_one_cm": 89,
-      "minecraft:play_time": 204278,
+      "minecraft:play_time": 205396,
       "minecraft:damage_dealt": 3018,
-      "minecraft:jump": 748,
+      "minecraft:jump": 751,
       "minecraft:drop": 1,
       "minecraft:interact_with_cartography_table": 1,
       "minecraft:sprint_one_cm": 375670,
@@ -160,7 +160,7 @@
       "minecraft:fall_one_cm": 15689,
       "minecraft:fly_one_cm": 75051,
       "minecraft:walk_on_water_one_cm": 4855,
-      "minecraft:sneak_time": 944
+      "minecraft:sneak_time": 965
     }
   },
   "DataVersion": 4671
